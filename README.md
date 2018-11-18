@@ -1,5 +1,6 @@
 # Sorting-algorithm
-Sorting algorithm with OpenGL visualization
+Sorting algorithm with OpenGL visualization.
+This algorithm is known as bubble sort but this one is inverted so it sorts from the lowest to the highest value.
 
 ![preview](https://i.imgur.com/7CXqKXZ.gif)
 
